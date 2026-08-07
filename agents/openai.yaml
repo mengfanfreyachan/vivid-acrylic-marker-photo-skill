@@ -1,0 +1,4 @@
+interface:
+  display_name: "丙烯马克笔照片插画"
+  short_description: "将照片保真转为无描边丙烯色块插画"
+  default_prompt: "Use $vivid-acrylic-marker-photo-skill to turn my uploaded photo into an acrylic marker color-block illustration."
